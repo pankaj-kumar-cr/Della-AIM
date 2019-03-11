@@ -87,7 +87,7 @@ public class MainScreen {
 		theStage.setX(X);
 		theStage.setY(Y);
 
-		theStage.setTitle("DellaFX"); // Set the title for the Stage Window
+		theStage.setTitle("DellaFX CI Demo"); // Set the title for the Stage Window
 
 		// The spaces before and after the labels is used to make the buttons larger
 		consoleButton.setText("    Console    ");
